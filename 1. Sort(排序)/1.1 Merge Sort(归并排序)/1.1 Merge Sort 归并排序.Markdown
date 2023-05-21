@@ -32,7 +32,7 @@ Merge sort 使用了 Divide and Conquer的算法思路，属于递归算法啊�
 
 ## Pseudocode
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/198360558@N07/52913105136/in/dateposted-public/" title="mergesort description"><img src="https://live.staticflickr.com/65535/52913105136_f6c7b899fb_o.png" width="1908" height="1256" alt="mergesort description" style="zoom: 33%;" /></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="/Users/peiyuanli/Desktop/Leetcode/1.%20Sort(%E6%8E%92%E5%BA%8F)/1.1%20Merge%20Sort(%E5%BD%92%E5%B9%B6%E6%8E%92%E5%BA%8F)/mergesort%20description.png" alt="mergesort description" />
 
 ## 代码
 
